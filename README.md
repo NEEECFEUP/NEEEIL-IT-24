@@ -1,6 +1,6 @@
 # NEEEIL-IT-24
 
-Repositório da edição 23/24 do NEEEIL it, a competição organizada pelo NEEEC FEUP que tem como objetivo dar aos estudantes a oportunidade de pôr à prova as suas capacidades de engenharia, na área de eletrotécnica
+Repositório da edição 23/24 do NEEEIL IT, a competição organizada pelo NEEEC FEUP que tem como objetivo dar aos estudantes a oportunidade de pôr à prova as suas capacidades de engenharia, na área de eletrotécnica.
 
 Neste repositório podes encontrar algumas ajudas :  
 - Código exemplo para usar Encoders
