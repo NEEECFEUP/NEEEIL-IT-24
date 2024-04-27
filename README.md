@@ -1,14 +1,15 @@
 # NEEEIL-IT-24
 
-Repositório da edição 23/24 do NEEEIL it, a competição organizada pelo NEEEC FEUP que tem como objetivo dar aos estudantes a oportunidade de pôr à prova as suas capacidades de engenharia, na área de eletrotecnia
+Repositório da edição 23/24 do NEEEIL it, a competição organizada pelo NEEEC FEUP que tem como objetivo dar aos estudantes a oportunidade de pôr à prova as suas capacidades de engenharia, na área de eletrotécnica
 
 Neste repositório podes encontrar algumas ajudas :  
 - Código exemplo para usar Encoders
 - Código exemplo para Cliente Servidor
 - Datasheets de vários componentes
+- Documentação dos workshops
 - Guião da Competição
 
-Lê tudo com atenção, e qualquer dúvida fala com alguém do STAFF . O código presente neste repositório server apenas para orientação e tem as suas limitações.
+Lê tudo com atenção, e qualquer dúvida fala com alguém do STAFF . O código presente neste repositório serve apenas para orientação e tem as suas limitações.
 
 Boa sorte ! 
 
