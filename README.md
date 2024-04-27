@@ -8,7 +8,7 @@ Neste repositório podes encontrar algumas ajudas :
 - Datasheets de vários componentes
 - Guião da Competição
 
-Lê tudo com atenção, e qualquer dúvida fala com alguem do STAFF 
+Lê tudo com atenção, e qualquer dúvida fala com alguém do STAFF . O código presente neste repositório server apenas para orientação e tem as suas limitações.
 
 Boa sorte ! 
 
